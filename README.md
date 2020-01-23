@@ -12,11 +12,11 @@
 
 |   文章总览   |     Java     | &nbsp;多线程与并发 | 框架与中间件与存储 |  消息中间件  |  &nbsp;算法  |   操作系统   |
 | :----------: | :----------: | :----------------: | :----------------: | :----------: | :----------: | :----------: |
-|      [📜](#scroll-文章总览)       |      ☕️       |         🍁          |         🔩          |  :postbox:   |      💭       |  :computer:  |
+|      [📜](#scroll-文章总览)       |   [☕️](#coffee-Java)   |         [🍁](#maple_leaf-多线程与并发)      |         [🔩](#wrench-框架)      | [:postbox:](#postbox-消息中间件) |      [💭](#thought_balloon-算法)   |  [:computer:](#computer-操作系统)  |
 |   **网络**   | **系统设计** |   **计算机系统**   |      **工具**      | **编码规范** | **Java之外** | **课外读物** |
-|      🌐       |  [:pencil2:](#pencil2-系统设计)   |         🖥          |         🛠          |      📝       |      📚       |      📒       |
+|      [🌐](#globe_with_meridians-网络)   |  [:pencil2:](#pencil2-系统设计)   |         [🖥](#desktop_computer-计算机系统)      |         [🛠](#hammer_and_wrench-工具)      |      [📝](#memo-编码规范)   |      [📚](#books-Java之外)   |      [📒](#ledger-课外读物)   |
 | **书籍鉴赏** |              |                    |                    |              |              |              |
-|      🦉       |              |                    |                    |              |              |              |
+|      [🦉](#owl-书籍鉴赏)   |              |                    |                    |              |              |              |
 
 
 > **读者须知**：以上并不是推荐列表，而是我自己看过和即将要看的书籍摆在这，所以有可能有一些书并不太好，具体评分鉴赏如果我看过的话会附在书籍链接的后面（注意参考豆瓣评分和我的评分鉴赏🦉）
@@ -100,7 +100,7 @@
 
 
 
-# 🍁 多线程与并发
+# :maple_leaf: 多线程与并发
 
 <img src="https://badgen.net/badge/豆瓣评分/7.4?icon=awesome&color=red"> [《Java并发编程的艺术》](https://book.douban.com/subject/26591326/)
 
@@ -110,9 +110,9 @@
 
 
 
-# 🔩 框架与中间件与存储
+# :nut_and_bolt: 框架与中间件与存储
 
-## 🔧 框架
+## :wrench: 框架
 
 <img src="https://badgen.net/badge/豆瓣评分/6.5?icon=awesome&color=red"> [《Spring 源码深度解析》](https://book.douban.com/subject/25866350/)
 
@@ -140,7 +140,7 @@
 
 
 
-# 📮 消息中间件
+# :postbox: 消息中间件
 
 <img src="https://badgen.net/badge/豆瓣评分/9.2?icon=awesome&color=red"> [《深入理解Kafka：核心设计与实践原理》](《深入理解Kafka：核心设计与实践原理》)
 
@@ -152,7 +152,7 @@
 
 
 
-# 💭 算法
+# :thought_balloon: 算法
 
 <img src="https://badgen.net/badge/豆瓣评分/9.0?icon=awesome&color=red"> [《剑指Offer：名企面试官精讲典型编程题（第2版）》](https://book.douban.com/subject/27008702/)
 
@@ -168,7 +168,7 @@
 
 
 
-# 🌐 网络
+# :globe_with_meridians: 网络
 
 <img src="https://badgen.net/badge/豆瓣评分/7.7?icon=awesome&color=red"> [《Netty实战》](https://book.douban.com/subject/27038538/)
 
@@ -196,13 +196,13 @@
 
 
 
-# 🖥 计算机系统
+# :desktop_computer: 计算机系统
 
 <img src="https://badgen.net/badge/豆瓣评分/9.7?icon=awesome&color=red"> [《深入理解计算机系统》](https://book.douban.com/subject/5333562/)
 
 
 
-# 🛠 工具 
+# :hammer_and_wrench: 工具 
 
 <img src="https://badgen.net/badge/豆瓣评分/8.2?icon=awesome&color=red"> [《Maven 实战》](https://book.douban.com/subject/5345682/)
 
@@ -216,7 +216,7 @@
 
 
 
-# 📝 编码规范
+# :memo: 编码规范
 
 <img src="https://badgen.net/badge/豆瓣评分/9.0?icon=awesome&color=red"> [《重构：改善既有代码的设计》](https://book.douban.com/subject/4262627/)
 
@@ -224,7 +224,7 @@
 
 
 
-# 📚 Java之外
+# :books: Java之外
 
 <img src="https://badgen.net/badge/豆瓣评分/9.3?icon=awesome&color=red"> [《C Primer Plus（第6版）中文版》](https://book.douban.com/subject/26792521/)
 
@@ -232,7 +232,7 @@
 
 
 
-# 📒 课外读物
+# :ledger: 课外读物
 
 <img src="https://badgen.net/badge/豆瓣评分/9.2?icon=awesome&color=red">  [《上帝掷骰子吗？》](https://book.douban.com/subject/33477229/)
 
@@ -246,7 +246,7 @@
 
 
 
-# 🦉 书籍鉴赏
+# :owl: 书籍鉴赏
 
 > 一本书读完让人有所启发，那么这本书就是一本好书。
 >
@@ -509,7 +509,7 @@
 # :scroll: 文章总览
 
 + [如何读一本书](#如何读一本书)
-+ [🦉 书籍鉴赏](#🦉 书籍鉴赏)
++ 🦉 书籍鉴赏
   + [《深入理解Java虚拟机》](#深入理解Java虚拟机)
   + [《Java编程方法论：响应式RxJava与代码设计实战》](#java编程方法论响应式rxjava与代码设计实战)
   + [《Effective Java》](#effective-java)
