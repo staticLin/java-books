@@ -76,15 +76,15 @@
 
 <img src="https://badgen.net/badge/豆瓣评分/9.1?icon=awesome&color=red">  [《Java编程思想 （第4版）》](https://book.douban.com/subject/2130190/) 
 
-<img src="https://badgen.net/badge/豆瓣评分/暂无评论?icon=awesome&color=grey">[《Java编程方法论：响应式RxJava与代码设计实战》](https://book.douban.com/subject/33462999/)
+<img src="https://badgen.net/badge/豆瓣评分/暂无评论?icon=awesome&color=grey">[《Java编程方法论：响应式RxJava与代码设计实战》](https://book.douban.com/subject/33462999/):point_right:   [书籍鉴赏]() 
 
-<img src="https://badgen.net/badge/豆瓣评分/8.9?icon=awesome&color=red">[《深入理解Java虚拟机（第2版）》](https://book.douban.com/subject/24722612/)
+<img src="https://badgen.net/badge/豆瓣评分/8.9?icon=awesome&color=red">[《深入理解Java虚拟机（第2版）》](https://book.douban.com/subject/24722612/):point_right:   [书籍鉴赏](深入理解Java虚拟机) 
 
 <img src="https://badgen.net/badge/豆瓣评分/9.7?icon=awesome&color=red">[《深入理解Java虚拟机（第3版）》](https://book.douban.com/subject/34907497/)
 
-<img src="https://badgen.net/badge/豆瓣评分/9.1?icon=awesome&color=red"> [《Effective java 中文版（第2版）》](https://book.douban.com/subject/3360807/)
+<img src="https://badgen.net/badge/豆瓣评分/9.1?icon=awesome&color=red"> [《Effective java 中文版（第2版）》](https://book.douban.com/subject/3360807/):point_right:   [书籍鉴赏]() 
 
-<img src="https://badgen.net/badge/豆瓣评分/10.0?icon=awesome&color=red"> [《Effective Java中文版（第3版）》](https://book.douban.com/subject/30412517/)
+<img src="https://badgen.net/badge/豆瓣评分/10.0?icon=awesome&color=red"> [《Effective Java中文版（第3版）》](https://book.douban.com/subject/30412517/):point_right:   [书籍鉴赏]() 
 
 <img src="https://badgen.net/badge/豆瓣评分/8.1?icon=awesome&color=red"> [《Java程序性能优化》](https://book.douban.com/subject/19969386/)
 
@@ -102,9 +102,9 @@
 
 # :maple_leaf: 多线程与并发
 
-<img src="https://badgen.net/badge/豆瓣评分/7.4?icon=awesome&color=red"> [《Java并发编程的艺术》](https://book.douban.com/subject/26591326/)
+<img src="https://badgen.net/badge/豆瓣评分/7.4?icon=awesome&color=red"> [《Java并发编程的艺术》](https://book.douban.com/subject/26591326/):point_right:   [书籍鉴赏]() 
 
-<img src="https://badgen.net/badge/豆瓣评分/9.0?icon=awesome&color=red"> [《Java并发编程实战》](https://book.douban.com/subject/10484692/)
+<img src="https://badgen.net/badge/豆瓣评分/9.0?icon=awesome&color=red"> [《Java并发编程实战》](https://book.douban.com/subject/10484692/):point_right:   [书籍鉴赏]() 
 
 <img src="https://badgen.net/badge/豆瓣评分/8.6?icon=awesome&color=red"> [《Java并发编程之美》](https://book.douban.com/subject/30351286/)
 
@@ -114,27 +114,27 @@
 
 ## :wrench: 框架
 
-<img src="https://badgen.net/badge/豆瓣评分/6.5?icon=awesome&color=red"> [《Spring 源码深度解析》](https://book.douban.com/subject/25866350/)
+<img src="https://badgen.net/badge/豆瓣评分/6.5?icon=awesome&color=red"> [《Spring 源码深度解析》](https://book.douban.com/subject/25866350/):point_right:   [书籍鉴赏]() 
 
-<img src="https://badgen.net/badge/豆瓣评分/7.8?icon=awesome&color=red"> [《Spring Cloud微服务实战》](https://book.douban.com/subject/27025912/)
+<img src="https://badgen.net/badge/豆瓣评分/7.8?icon=awesome&color=red"> [《Spring Cloud微服务实战》](https://book.douban.com/subject/27025912/):point_right:   [书籍鉴赏]() 
 
-<img src="https://badgen.net/badge/豆瓣评分/6.5?icon=awesome&color=red"> [《SpringBoot 编程思想》](https://book.douban.com/subject/33390560/)
+<img src="https://badgen.net/badge/豆瓣评分/6.5?icon=awesome&color=red"> [《SpringBoot 编程思想》](https://book.douban.com/subject/33390560/):point_right:   [书籍鉴赏]() 
 
-<img src="https://badgen.net/badge/豆瓣评分/7.7?icon=awesome&color=red"> [《深入理解 Apache Dubbo 与实战》](https://book.douban.com/subject/34455777/)
+<img src="https://badgen.net/badge/豆瓣评分/7.7?icon=awesome&color=red"> [《深入理解 Apache Dubbo 与实战》](https://book.douban.com/subject/34455777/):point_right:   [书籍鉴赏]() 
 
 <img src="https://badgen.net/badge/豆瓣评分/8.5?icon=awesome&color=red"> [《MyBatis技术内幕》](https://book.douban.com/subject/27087564/)
 
 ## :floppy_disk: 数据库
 
-<img src="https://badgen.net/badge/豆瓣评分/9.3?icon=awesome&color=red"> [《高性能MySQL》](https://book.douban.com/subject/23008813/)
+<img src="https://badgen.net/badge/豆瓣评分/9.3?icon=awesome&color=red"> [《高性能MySQL》](https://book.douban.com/subject/23008813/):point_right:   [书籍鉴赏]() 
 
-<img src="https://badgen.net/badge/豆瓣评分/7.7?icon=awesome&color=red"> [《从Paxos 到 Zookeeper》](https://book.douban.com/subject/26292004/)
+<img src="https://badgen.net/badge/豆瓣评分/7.7?icon=awesome&color=red"> [《从Paxos 到 Zookeeper》](https://book.douban.com/subject/26292004/):point_right:   [书籍鉴赏]() 
 
-<img src="https://badgen.net/badge/豆瓣评分/8.5?icon=awesome&color=red"> [《Redis设计与实现》](https://book.douban.com/subject/25900156/)
+<img src="https://badgen.net/badge/豆瓣评分/8.5?icon=awesome&color=red"> [《Redis设计与实现》](https://book.douban.com/subject/25900156/):point_right:   [书籍鉴赏]() 
 
-<img src="https://badgen.net/badge/豆瓣评分/9.0?icon=awesome&color=red"> [《Redis深度历险：核心原理与应用实践》](https://book.douban.com/subject/30386804/)
+<img src="https://badgen.net/badge/豆瓣评分/9.0?icon=awesome&color=red"> [《Redis深度历险：核心原理与应用实践》](https://book.douban.com/subject/30386804/):point_right:   [书籍鉴赏]() 
 
-<img src="https://badgen.net/badge/豆瓣评分/8.6?icon=awesome&color=red"> [《Zookeeper 分布式过程协同技术详解》](https://book.douban.com/subject/26766807/)
+<img src="https://badgen.net/badge/豆瓣评分/8.6?icon=awesome&color=red"> [《Zookeeper 分布式过程协同技术详解》](https://book.douban.com/subject/26766807/):point_right:   [书籍鉴赏]() 
 
 <img src="https://badgen.net/badge/豆瓣评分/8.1?icon=awesome&color=red"> [《MongoDB权威指南》](https://book.douban.com/subject/25798102/)
 
@@ -142,9 +142,9 @@
 
 # :postbox: 消息中间件
 
-<img src="https://badgen.net/badge/豆瓣评分/9.2?icon=awesome&color=red"> [《深入理解Kafka：核心设计与实践原理》](《深入理解Kafka：核心设计与实践原理》)
+<img src="https://badgen.net/badge/豆瓣评分/9.2?icon=awesome&color=red"> [《深入理解Kafka：核心设计与实践原理》](《深入理解Kafka：核心设计与实践原理》):point_right:   [书籍鉴赏]() 
 
-<img src="https://badgen.net/badge/豆瓣评分/8.9?icon=awesome&color=red"> [《RabbitMQ 实战指南》](https://book.douban.com/subject/27591386/)
+<img src="https://badgen.net/badge/豆瓣评分/8.9?icon=awesome&color=red"> [《RabbitMQ 实战指南》](https://book.douban.com/subject/27591386/):point_right:   [书籍鉴赏]() 
 
 <img src="https://badgen.net/badge/豆瓣评分/7.2?icon=awesome&color=red"> [《Rocket实战与原理解析》](https://book.douban.com/subject/30246992/)
 
@@ -164,15 +164,15 @@
 
 # :computer: 操作系统
 
-<img src="https://badgen.net/badge/豆瓣评分/7.9?icon=awesome&color=red"> [《鸟哥的Linux私房菜 基础学习篇 第四版》](https://book.douban.com/subject/30359954/)
+<img src="https://badgen.net/badge/豆瓣评分/7.9?icon=awesome&color=red"> [《鸟哥的Linux私房菜 基础学习篇 第四版》](https://book.douban.com/subject/30359954/):point_right:   [书籍鉴赏]() 
 
 
 
 # :globe_with_meridians: 网络
 
-<img src="https://badgen.net/badge/豆瓣评分/7.7?icon=awesome&color=red"> [《Netty实战》](https://book.douban.com/subject/27038538/)
+<img src="https://badgen.net/badge/豆瓣评分/7.7?icon=awesome&color=red"> [《Netty实战》](https://book.douban.com/subject/27038538/):point_right:   [书籍鉴赏]() 
 
-<img src="https://badgen.net/badge/豆瓣评分/6.8?icon=awesome&color=red"> [《Netty权威指南（第2版）》](https://book.douban.com/subject/26373138/)
+<img src="https://badgen.net/badge/豆瓣评分/6.8?icon=awesome&color=red"> [《Netty权威指南（第2版）》](https://book.douban.com/subject/26373138/):point_right:   [书籍鉴赏]() 
 
 <img src="https://badgen.net/badge/豆瓣评分/8.8?icon=awesome&color=red"> [《深入理解Nginx》](https://book.douban.com/subject/26745255/)
 
@@ -204,11 +204,11 @@
 
 # :hammer_and_wrench: 工具 
 
-<img src="https://badgen.net/badge/豆瓣评分/8.2?icon=awesome&color=red"> [《Maven 实战》](https://book.douban.com/subject/5345682/)
+<img src="https://badgen.net/badge/豆瓣评分/8.2?icon=awesome&color=red"> [《Maven 实战》](https://book.douban.com/subject/5345682/):point_right:   [书籍鉴赏]() 
 
-<img src="https://badgen.net/badge/豆瓣评分/6.6?icon=awesome&color=red"> [《Git 学习指南》](https://book.douban.com/subject/26967729/)
+<img src="https://badgen.net/badge/豆瓣评分/6.6?icon=awesome&color=red"> [《Git 学习指南》](https://book.douban.com/subject/26967729/):point_right:   [书籍鉴赏]() 
 
-<img src="https://badgen.net/badge/豆瓣评分/8.6?icon=awesome&color=red"> [《精通 Git》](https://book.douban.com/subject/27133267/)
+<img src="https://badgen.net/badge/豆瓣评分/8.6?icon=awesome&color=red"> [《精通 Git》](https://book.douban.com/subject/27133267/):point_right:   [书籍鉴赏]() 
 
 <img src="https://badgen.net/badge/豆瓣评分/9.3?icon=awesome&color=red"> [《Kubernetes in Action》](https://book.douban.com/subject/30418855/)
 
@@ -226,9 +226,9 @@
 
 # :books: Java之外
 
-<img src="https://badgen.net/badge/豆瓣评分/9.3?icon=awesome&color=red"> [《C Primer Plus（第6版）中文版》](https://book.douban.com/subject/26792521/)
+<img src="https://badgen.net/badge/豆瓣评分/9.3?icon=awesome&color=red"> [《C Primer Plus（第6版）中文版》](https://book.douban.com/subject/26792521/):point_right:   [书籍鉴赏]() 
 
-<img src="https://badgen.net/badge/豆瓣评分/8.5?icon=awesome&color=red"> [《C++ Primer Plus : 中文版（第六版）》](https://book.douban.com/subject/10789789/)
+<img src="https://badgen.net/badge/豆瓣评分/8.5?icon=awesome&color=red"> [《C++ Primer Plus : 中文版（第六版）》](https://book.douban.com/subject/10789789/):point_right:   [书籍鉴赏]() 
 
 
 
