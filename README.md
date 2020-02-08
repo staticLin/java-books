@@ -57,7 +57,7 @@
 ### 计划在2020年会读的书籍
 
 <div align="center">
-		<img src="./2020todo-Book.JPG" width="777px">
+		<img src="./2020todo-book.JPG" width="777px">
 </div>
 
 <br>
