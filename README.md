@@ -175,13 +175,13 @@
 
 # :pencil2: 系统设计 
 
-| 豆瓣评分                                                     | 书名                                                         |      |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| <img src="https://badgen.net/badge/豆瓣评分/5.6?icon=awesome&color=red"> | [《可伸缩服务架构：框架与中间件》](https://book.douban.com/subject/30159597/) |      |
-| <img src="https://badgen.net/badge/豆瓣评分/7.1?icon=awesome&color=red"> | [《深入分布式缓存：从原理到实践》](https://book.douban.com/subject/27602483/) |      |
-| <img src="https://badgen.net/badge/豆瓣评分/8.6?icon=awesome&color=red"> | [《大型网站技术架构：核心原理与案例分析》](https://book.douban.com/subject/25723064/) |      |
-| <img src="https://badgen.net/badge/豆瓣评分/7.9?icon=awesome&color=red"> | [《大型网站系统与Java中间件实践》](https://book.douban.com/subject/25867042/) |      |
-| <img src="https://badgen.net/badge/豆瓣评分/6.7?icon=awesome&color=red"> | [《亿级流量网站架构核心技术》](https://book.douban.com/subject/26999243/) |      |
+| 豆瓣评分                                                     | 书名                                                         |                                          |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------- |
+| <img src="https://badgen.net/badge/豆瓣评分/5.6?icon=awesome&color=red"> | [《可伸缩服务架构：框架与中间件》](https://book.douban.com/subject/30159597/) |                                          |
+| <img src="https://badgen.net/badge/豆瓣评分/7.1?icon=awesome&color=red"> | [《深入分布式缓存：从原理到实践》](https://book.douban.com/subject/27602483/) | [书籍鉴赏](##深入分布式缓存从原理到实践) |
+| <img src="https://badgen.net/badge/豆瓣评分/8.6?icon=awesome&color=red"> | [《大型网站技术架构：核心原理与案例分析》](https://book.douban.com/subject/25723064/) |                                          |
+| <img src="https://badgen.net/badge/豆瓣评分/7.9?icon=awesome&color=red"> | [《大型网站系统与Java中间件实践》](https://book.douban.com/subject/25867042/) |                                          |
+| <img src="https://badgen.net/badge/豆瓣评分/6.7?icon=awesome&color=red"> | [《亿级流量网站架构核心技术》](https://book.douban.com/subject/26999243/) |                                          |
 
 <br>
 
@@ -495,6 +495,16 @@
 
 <br>
 
+### 《深入分布式缓存：从原理到实践》
+
+### ![img](https://badgen.net/badge/%E6%8E%A8%E8%8D%90%E7%A8%8B%E5%BA%A6/6.0?icon=awesome&color=red)
+
+- **书籍内容**：讲述了缓存的一些中间件和缓存思想
+- **适宜人群**：用到书中讲到的中间件的开发人员可以进行参考，如果没有用到，个人感觉帮助不会很大
+- **评价**：本书是我很期待阅读的一本书，但是真正阅读下来还是比较让我失望的，因为我没有读到我想看到的内容，书名为分布式缓存，我希望书中给予我的启发在缓存雪崩、一致性问题等等缓存的难点问题上给出一系列解决方案，但其实本书讲的更多的是如何使用中间件做缓存（虽然也有讲到缓存雪崩、缓存一致性的问题，但是就随便两句话说完了，没有给出一个十分明确、可以应用到生产代码上的方案），很多观点抛出来的都是很深的议题，然而作者说的很浅，两句话代过，个人感觉陷入了专家级别不用看，普通开发人员看不懂的窘境，再者本书由多名作者组合写作，使得整篇书的一个主题飘忽不定，个人感觉，扣不住全书的宗旨，分布式缓存，反而讲到很多中间件的使用（目测讲了5个以上的缓存中间件），如果没有用到这些中间件，那本书就毫无意义，没有任何参考价值。看完全书，个人观点（仅供参考），无法给我带来缓存上的一些启发和实用技巧。
+
+<br>
+
 # :scroll: 文章总览
 
 + [开篇](#开篇)
@@ -525,6 +535,7 @@
   + [《精通 Git》](#精通-Git)
   + [《C Primer Plus（第6版）中文版》](#C-Primer-Plus第6版中文版)
   + [《C++ Primer Plus : 中文版（第六版）》](#c-primer-plus--中文版第六版)
+  + [《深入分布式缓存：从原理到实践》](#深入分布式缓存从原理到实践)
 
 
 ## 贡献
