@@ -175,13 +175,13 @@
 
 # :pencil2: 系统设计 
 
-| 豆瓣评分                                                     | 书名                                                         |                                          |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------- |
-| <img src="https://badgen.net/badge/豆瓣评分/5.6?icon=awesome&color=red"> | [《可伸缩服务架构：框架与中间件》](https://book.douban.com/subject/30159597/) |                                          |
-| <img src="https://badgen.net/badge/豆瓣评分/7.1?icon=awesome&color=red"> | [《深入分布式缓存：从原理到实践》](https://book.douban.com/subject/27602483/) | [书籍鉴赏](##深入分布式缓存从原理到实践) |
-| <img src="https://badgen.net/badge/豆瓣评分/8.6?icon=awesome&color=red"> | [《大型网站技术架构：核心原理与案例分析》](https://book.douban.com/subject/25723064/) |                                          |
-| <img src="https://badgen.net/badge/豆瓣评分/7.9?icon=awesome&color=red"> | [《大型网站系统与Java中间件实践》](https://book.douban.com/subject/25867042/) |                                          |
-| <img src="https://badgen.net/badge/豆瓣评分/6.7?icon=awesome&color=red"> | [《亿级流量网站架构核心技术》](https://book.douban.com/subject/26999243/) |                                          |
+| 豆瓣评分                                                     | 书名                                                         |                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------- |
+| <img src="https://badgen.net/badge/豆瓣评分/5.6?icon=awesome&color=red"> | [《可伸缩服务架构：框架与中间件》](https://book.douban.com/subject/30159597/) |                                         |
+| <img src="https://badgen.net/badge/豆瓣评分/7.1?icon=awesome&color=red"> | [《深入分布式缓存：从原理到实践》](https://book.douban.com/subject/27602483/) | [书籍鉴赏](#深入分布式缓存从原理到实践) |
+| <img src="https://badgen.net/badge/豆瓣评分/8.6?icon=awesome&color=red"> | [《大型网站技术架构：核心原理与案例分析》](https://book.douban.com/subject/25723064/) |                                         |
+| <img src="https://badgen.net/badge/豆瓣评分/7.9?icon=awesome&color=red"> | [《大型网站系统与Java中间件实践》](https://book.douban.com/subject/25867042/) |                                         |
+| <img src="https://badgen.net/badge/豆瓣评分/6.7?icon=awesome&color=red"> | [《亿级流量网站架构核心技术》](https://book.douban.com/subject/26999243/) |                                         |
 
 <br>
 
