@@ -39,8 +39,9 @@
 <br>
 
 <div align="center">
-    <img src="http://q3tv3270i.bkt.clouddn.com/WechatIMG349.png" width="300px">
+    <img src="./WechatIMG349.png">
 </div>
+
 
 
 
